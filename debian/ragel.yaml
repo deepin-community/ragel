@@ -1,0 +1,5 @@
+addon: ragel
+description: "allow syntax highlighting for ragel state machines"
+files:
+  - syntax/ragel.vim
+
